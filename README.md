@@ -6,8 +6,8 @@
 - 🌱 Primeiro módulo ( Fundamentos de desenvolvimento web ).
 - 😄 Pronouns: ele/dele
 - 💬 Contate-me no: 
-- diegotimao1104@gmail.com
-- https://www.linkedin.com/in/diego-cavalcanti-87116b182/
+- Email: diegotimao1104@gmail.com
+- Linkedin: https://www.linkedin.com/in/diego-cavalcanti-87116b182/
 
 
 ##
