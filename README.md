@@ -4,10 +4,11 @@
 
 - 🔭 Hoje sou pessoa estudante de Desenvolvimento Web na Trybe
 - 🌱 Primeiro módulo ( Fundamentos de desenvolvimento web ).
-- 💬 Contate-me no: 
-        diegotimao1104@gmail.com
-        https://www.linkedin.com/in/diego-cavalcanti-87116b182/
 - 😄 Pronouns: ele/dele
+- 💬 Contate-me no: 
+- diegotimao1104@gmail.com
+- https://www.linkedin.com/in/diego-cavalcanti-87116b182/
+
 
 ##
 
