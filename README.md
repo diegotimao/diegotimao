@@ -14,8 +14,8 @@
 
 <div style="display: inline_block">
   <a href="diegotimao">
-  <img width="50%" height="255px" src="https://github-readme-stats.vercel.app/api?username=diegotimao&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegotimao&layout=compact&langs_count=16&theme=buefy"/>
+  <img width="50%" height="255" src="https://github-readme-stats.vercel.app/api?username=diegotimao&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="255" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegotimao&layout=compact&langs_count=16&theme=buefy"/>
 </div>
   
  ##
