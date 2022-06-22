@@ -2,6 +2,7 @@
 
 **Seja muito bem vindo!** 
 
+- 🧑‍💻 Nome: Diego dos Santos Cavalcanti
 - 😄 Pronouns: ele/dele
 - 💬 Contate-me no: 
 - Email: diegotimao1104@gmail.com
