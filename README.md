@@ -9,6 +9,7 @@
 
 ##
 ### 🔭 Hoje sou pessoa estudante de Desenvolvimento Web na Trybe
+##
 
 **🌱 Trybe módulos.**
 
@@ -18,7 +19,6 @@
 - [ ] Ciência da Computação
 
 ##
-##
 
 <div style="display: inline_block">
   <a href="diegotimao">
@@ -26,7 +26,6 @@
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegotimao&layout=compact&langs_count=16&theme=buefy"/>
 </div>
   
- ##
  ## 
     
 <div style="display: inline_block align: "center""><br>
