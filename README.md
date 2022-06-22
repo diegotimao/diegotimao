@@ -2,19 +2,20 @@
 
 **Seja muito bem vindo!** 
 
-- 🔭 Hoje sou pessoa estudante de Desenvolvimento Web na Trybe
-
-- 🌱 Trybe módulos.
-- [x] Fundamentos da Computação
-- [x] Front-end
-- [ ] Back-end
-- [ ] Ciência da Computação
-
 - 😄 Pronouns: ele/dele
 - 💬 Contate-me no: 
 - Email: diegotimao1104@gmail.com
 - Linkedin: https://www.linkedin.com/in/diego-cavalcanti-87116b182/
 
+##
+- 🔭 Hoje sou pessoa estudante de Desenvolvimento Web na Trybe
+
+**🌱 Trybe módulos.**
+
+- [x] Fundamentos da Computação
+- [x] Front-end
+- [ ] Back-end
+- [ ] Ciência da Computação
 
 ##
 
