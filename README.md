@@ -3,13 +3,13 @@
 **Seja muito bem vindo!** 
 
 - 🔭 Hoje sou pessoa estudante de Desenvolvimento Web na Trybe
-<br>
+
 - 🌱 Trybe módulos.
-  - [x] Fundamentos da Computação
-  - [x] Front-end
-  - [ ] Back-end
-  - [ ] Ciência da Computação
-<br> 
+- [x] Fundamentos da Computação
+- [x] Front-end
+- [ ] Back-end
+- [ ] Ciência da Computação
+
 - 😄 Pronouns: ele/dele
 - 💬 Contate-me no: 
 - Email: diegotimao1104@gmail.com
