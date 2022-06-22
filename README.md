@@ -12,7 +12,7 @@
 ## 
 A trybe é uma escola de programação, seu curso dura 12 meses e possui 4 módulos.
 
-- [Conheça a Trybe](https://htmlreference.io/](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=CjwKCAjw-8qVBhANEiwAfjXLrvc27vGMHTBGYvp12rvfPnYyCJTjz_hMBoI1_TSNSpwnNpJY9VvEchoCsFMQAvD_BwE)
+- [Conheça a Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=CjwKCAjw-8qVBhANEiwAfjXLrvc27vGMHTBGYvp12rvfPnYyCJTjz_hMBoI1_TSNSpwnNpJY9VvEchoCsFMQAvD_BwE)
 ##
 
 **🌱 Trybe módulos.**
