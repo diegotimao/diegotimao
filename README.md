@@ -8,7 +8,7 @@
 - Linkedin: https://www.linkedin.com/in/diego-cavalcanti-87116b182/
 
 ##
-- 🔭 Hoje sou pessoa estudante de Desenvolvimento Web na Trybe
+### 🔭 Hoje sou pessoa estudante de Desenvolvimento Web na Trybe
 
 **🌱 Trybe módulos.**
 
@@ -18,6 +18,7 @@
 - [ ] Ciência da Computação
 
 ##
+##
 
 <div style="display: inline_block">
   <a href="diegotimao">
@@ -26,7 +27,7 @@
 </div>
   
  ##
-  
+ ## 
     
 <div style="display: inline_block align: "center""><br>
   <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
