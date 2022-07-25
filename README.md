@@ -20,7 +20,7 @@ A trybe é uma escola de programação, seu curso dura 12 meses e possui 4 módu
 
 - [x] Fundamentos da Computação
 - [x] Front-end
-- [ ] Back-end
+- [x] Back-end
 - [ ] Ciência da Computação
 
 ##
