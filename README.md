@@ -6,7 +6,7 @@
 - 😄 Pronouns: ele/dele
 - 💬 Contate-me no: 
 - Email: diegotimao1104@gmail.com
-- Linkedin: https://www.linkedin.com/in/diego-cavalcanti-87116b182/
+- Linkedin: https://www.linkedin.com/in/diegocti/
 
 ## Experiência com:
 
