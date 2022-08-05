@@ -1,6 +1,6 @@
-## 🧑‍💻 Hello Word
+## 🧑‍💻 Hello Wolrd
 
-**Seja muito bem vindo!** 
+##**Seja muito bem vindo!** 
 
 - 🧑‍💻 Nome: Diego dos Santos Cavalcanti
 - 😄 Pronouns: ele/dele
@@ -8,23 +8,11 @@
 - Email: diegotimao1104@gmail.com
 - Linkedin: https://www.linkedin.com/in/diego-cavalcanti-87116b182/
 
-##
-### 🔭 Cursando Desenvolvimento de Softwares na Trybe
+## Experiência com:
+
+HTML, CSS, GITHUB, GIT, NODEJS, DOCKER, CONTEXT API, REACTJS, REDUX, BOOTSTRAP, JAVASCRIPT.
+
 ## 
-A trybe é uma escola de programação, seu curso dura 12 meses e possui 4 módulos.
-
-- [Conheça a Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=CjwKCAjw-8qVBhANEiwAfjXLrvc27vGMHTBGYvp12rvfPnYyCJTjz_hMBoI1_TSNSpwnNpJY9VvEchoCsFMQAvD_BwE)
-##
-
-**🌱 Trybe módulos.**
-
-- [x] Fundamentos da Computação
-- [x] Front-end
-- [x] Back-end
-- [ ] Ciência da Computação
-
-##
-
 <div style="display: inline_block">
   <a href="diegotimao">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=diegotimao&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
