@@ -1,7 +1,5 @@
-## 🧑‍💻 Hello Wolrd
+## 🧑‍💻 Seja muito bem vindo!
 
-**Seja muito bem vindo!** 
-##
 Sou um desenvolvedor FullStack, que adora código aberto e um bom café. Me apaixonei pela programação em 2014 quando iniciei por acaso o curso Técnico em informática, único curso que ainda restavam vagas disponiveis. Desde então me tornei um eterno aprendiz de tecnologia em geral. procurando me capacitar cada vez mais. Atualmente estou estudando Desenvolvimento de Softwares na Trybe. 
 
 **“Para mim a tecnologia é um mar de possibilidades, com ela tenho o poder para dar vida as idéias e soluções. E saber que as minhas linhas de código podem impactar diretamente na vida das pessoas é muito gratificante”.**
