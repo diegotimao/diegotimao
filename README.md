@@ -8,7 +8,7 @@ Sou um desenvolvedor FullStack, que adora código aberto e um bom café. Me apai
 - 💬 Contate-me no: 
 - Email: diegotimao1104@gmail.com
 - Linkedin: https://www.linkedin.com/in/diegocti/
-- Portifólio: https://portifolio-qq8h4a82j-diegotimao.vercel.app/
+- Portifólio: https://diegocti.vercel.app/
 
 ## Experiência com:
 
