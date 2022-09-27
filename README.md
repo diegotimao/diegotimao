@@ -10,7 +10,7 @@ Sou um desenvolvedor Front-end Jr, que adora código, café e futebol. Me apaixo
 
 ## Experiência com:
 
-HTML, CSS, GITHUB, GIT, NODEJS, DOCKER, CONTEXT API, REACTJS, REDUX, BOOTSTRAP, JAVASCRIPT.
+HTML, CSS, GITHUB, GIT, NODEJS, DOCKER, CONTEXT API, REACTJS, REDUX, JAVASCRIPT.
 
 ## 
 <div style="display: inline_block">
