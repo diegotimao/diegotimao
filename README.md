@@ -15,7 +15,7 @@ HTML, CSS, GITHUB, GIT, NODEJS, DOCKER, CONTEXT API, REACTJS, REDUX, JAVASCRIPT.
 ## 
 <div style="display: inline_block">
   <a href="diegotimao">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=diegotimao&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=diegotimao&show_icons=true&theme=buefy&include_all_commits=true&count_private=false"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegotimao&layout=compact&langs_count=16&theme=buefy"/>
 </div>
   
