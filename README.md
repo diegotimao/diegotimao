@@ -18,6 +18,9 @@ Sou um desenvolvedor Front-end Jr, que adora código, café e futebol. Me apaixo
  ## 
     
 <div style="display: inline_block align: "center""><br>
+ <img align="center" alt="Diego-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img align="center" alt="Diego-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
   <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img  align="center" alt="Diego-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="center" alt="Diego-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
