@@ -1,4 +1,4 @@
-## 🧑‍💻 Seja muito bem vindo!
+## Diego Cavalcanti
 
 Sou um desenvolvedor Front-end Jr, que adora código, café e futebol. Me apaixonei pela programação em 2014 quando iniciei por acaso o curso Técnico em informática. Desde então me tornei um eterno aprendiz de tecnologia em geral. procurando me capacitar cada vez mais.
 
