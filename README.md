@@ -8,6 +8,10 @@ Sou um desenvolvedor Front-end Jr, que adora código, café e futebol. Me apaixo
 - Linkedin: https://www.linkedin.com/in/diegocti/
 - Portifólio: https://diegocti.vercel.app/
 
+##
+
+Typescript - JavaScript - NodeJs - MySQL - MongoDB - Docker
+
 ## 
 <div style="display: inline_block">
   <a href="diegotimao">
