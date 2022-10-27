@@ -10,7 +10,7 @@ Sou um desenvolvedor Front-end Jr, que adora código, café e futebol. Me apaixo
 
 ##
 
-Typescript - JavaScript - NodeJs - MySQL - MongoDB - Docker
+**Techs primárias**: Typescript - JavaScript - NodeJs - MySQL - MongoDB - Docker
 
 ## 
 <div style="display: inline_block">
