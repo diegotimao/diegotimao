@@ -1,6 +1,7 @@
 ## Diego Cavalcanti
 
-Sou um desenvolvedor Front-end Jr, que adora código, café e futebol. Me apaixonei pela programação em 2014 quando iniciei por acaso o curso Técnico em informática. Desde então me tornei um eterno aprendiz de tecnologia em geral. procurando me capacitar cada vez mais.
+Amo programar, gosto de um cafezinho quente e uma conversa animada, tenho a sorte de morar em uma ilha rodeada de água doce para onde vou sempre relaxar e colocar meus pensamentos em ordem.
+O futebol é a minha paixão, onde se aprende a trabalhar em equipe tendo a lição de nunca desistir.
 
 - 😄 Pronouns: ele/dele
 - 💬 Contate-me no: 
