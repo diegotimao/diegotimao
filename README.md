@@ -4,7 +4,6 @@ Sou um desenvolvedor Full-stack com habilidades sólidas em JavaScript, TypeScri
 
 Tenho uma paixão genuína pela programação e sinto-me inspirado pela possibilidade de criar soluções inovadoras. Adoro mergulhar em projetos desafiadores, buscando constantemente aprimorar minhas habilidades técnicas e acompanhar as últimas tendências do setor.
 
-Além do mundo da tecnologia, encontro prazer nas coisas simples da vida. Nada supera um café quente enquanto me envolvo em discussões animadas com colegas de trabalho. Sou privilegiado por viver em uma ilha cercada por água doce, onde encontro tranquilidade e a oportunidade de organizar meus pensamentos, o futebol é uma das minhas grandes paixões e me ensinou valiosas lições sobre trabalho em equipe e resiliência. Através desse esporte, aprendi a importância de nunca desistir e a perseverar diante de desafios. 
 
 
 - 😄 Pronouns: ele/dele
