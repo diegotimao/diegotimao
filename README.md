@@ -1,7 +1,11 @@
 ## Diego Cavalcanti
 
-Amo programar, gosto de um cafezinho quente e uma conversa animada, tenho a sorte de morar em uma ilha rodeada de água doce para onde vou sempre relaxar e colocar meus pensamentos em ordem.
-O futebol é a minha paixão, onde se aprende a trabalhar em equipe tendo a lição de nunca desistir.
+Sou um desenvolvedor Full-stack com habilidades sólidas em JavaScript, TypeScript e Python. Utilizo com destreza as tecnologias Node.js, Express.js e Next.js para criar aplicações web escaláveis e de alto desempenho. Possuo conhecimento avançado em bancos de dados MongoDB e SQL, além de dominar os frameworks de teste Jest, Mocha e Chai. Também possuo conhecimentos sólida em React, HTML5 e CSS3, incluindo o uso do tailwindcss para estilização.
+
+Tenho uma paixão genuína pela programação e sinto-me inspirado pela possibilidade de criar soluções inovadoras. Adoro mergulhar em projetos desafiadores, buscando constantemente aprimorar minhas habilidades técnicas e acompanhar as últimas tendências do setor.
+
+Além do mundo da tecnologia, encontro prazer nas coisas simples da vida. Nada supera um café quente enquanto me envolvo em discussões animadas com colegas de trabalho. Sou privilegiado por viver em uma ilha cercada por água doce, onde encontro tranquilidade e a oportunidade de organizar meus pensamentos, o futebol é uma das minhas grandes paixões e me ensinou valiosas lições sobre trabalho em equipe e resiliência. Através desse esporte, aprendi a importância de nunca desistir e a perseverar diante de desafios. 
+
 
 - 😄 Pronouns: ele/dele
 - 💬 Contate-me no: 
