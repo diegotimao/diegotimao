@@ -14,7 +14,7 @@ Tenho uma paixão genuína pela programação e sinto-me inspirado pela possibil
 
 ##
 
-**Techs primárias**: Typescript - JavaScript - React - NodeJs - MySQL - MongoDB - Docker
+**Techs primárias**: - [TypeScript](https://www.typescriptlang.org/) - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - [React](https://reactjs.org/) - [Node.js](https://nodejs.org/) - [MySQL](https://www.mysql.com/) - [MongoDB](https://www.mongodb.com/) - [Docker](https://www.docker.com/)
 
 ## 
 <div style="display: inline_block">
