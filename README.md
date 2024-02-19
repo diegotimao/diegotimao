@@ -1,6 +1,6 @@
 ## Diego Cavalcanti
 
-Sou um desenvolvedor Full-stack com habilidades sólidas em JavaScript, TypeScript e Python. Utilizo com destreza as tecnologias Node.js, Express.js e Next.js para criar aplicações web escaláveis e de alto desempenho. Possuo conhecimento avançado em bancos de dados MongoDB e SQL, além de dominar os frameworks de teste Jest, Mocha e Chai. Também possuo conhecimentos sólida em React, HTML5 e CSS3, incluindo o uso do tailwindcss para estilização.
+Sou um desenvolvedor Full-stack com habilidades técnicas em JavaScript, TypeScript e Python. Utilizo com destreza as tecnologias Node.js, Express.js e Next.js para criar aplicações web escaláveis e de alto desempenho. Possuo conhecimento avançado em bancos de dados MongoDB e SQL, além de dominar os frameworks de teste Jest, Mocha e Chai. Também possuo conhecimentos sólida em React, HTML5 e CSS3, incluindo o uso do tailwindcss para estilização.
 
 Tenho uma paixão genuína pela programação e sinto-me inspirado pela possibilidade de criar soluções inovadoras. Adoro mergulhar em projetos desafiadores, buscando constantemente aprimorar minhas habilidades técnicas e acompanhar as últimas tendências do setor.
 
